@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Timoteo-Hernandez/Timoteo-Hernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Timoteo Hernandez a Web developer based in The Philippines.
 
-Here are some ideas to get you started:
+Currently studying my Bachelor of Science in Information Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my main tech stack is html,css,Java,javascript and php.
+
+
+## Fun fact: 
+
+•	I have a pet rabit and 2 Dogs.
+•	I love watching Youtube and Tiktok.
+•	Demon slayer is my favorite anime of all time  
+
+
